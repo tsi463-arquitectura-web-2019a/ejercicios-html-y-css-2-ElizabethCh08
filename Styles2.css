@@ -1,0 +1,53 @@
+.Principal{
+	background-color: #E8E8E7;
+	margin: 0 auto;
+	width: 50%;
+}
+
+.div_Verde{
+	background-color: #8bcc98;
+	border: solid #8bcc98;
+	height: 5px;
+}
+
+.texto{
+	color: #828282;
+	width: 50%;
+	margin: 0 auto;
+	background-color: white;
+	padding: 0px 10px 10px 10px;
+	margin-top: 10px; 
+}
+
+img{
+	margin-top: 15px;
+	margin: 0 auto;
+	width: auto;
+	height: 330px;
+	opacity: 0.5;
+}
+.recuadro{
+	position: relative;
+}
+
+.recuadroTexto{
+	top: 50%;
+	left: 50%;
+	font-size: 20px;
+	border: 1px solid white;
+	color: white;
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin: 0 auto;
+	position: absolute;
+	transform: translate(-50%,-180%);
+}
+
+.title1{
+	margin-top: -1px;
+}
+
+.title2{
+	margin-top: -25px;
+}
